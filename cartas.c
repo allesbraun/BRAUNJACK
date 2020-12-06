@@ -43,7 +43,7 @@ int embaralha(int pilha[52]){   //recebe o vetor baralho e embaralha seus termos
   return 0;
 }
 
-const uint8_t *converte_carta(int k){   //rece os inteiros do baralho e retorna a carta correspondente
+const uint8_t *converte_carta(int k){   //recebe os inteiros do baralho e retorna a carta correspondente
     switch(k){
 
         //OUROS
